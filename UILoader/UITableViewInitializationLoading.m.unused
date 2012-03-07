@@ -1,0 +1,17 @@
+//
+//  UITableViewInitializationLoading.m
+//  uitableviewloader
+//
+//  Created by Apirom Na Nakorn on 3/7/12.
+//  Copyright 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import "UITableViewInitializationLoading.h"
+
+
+@implementation UITableViewInitializationLoading (InitializationLoading)
+
+- (void) startInitializationLoading;
+- (void) stopInitializationLoading;
+
+@end
