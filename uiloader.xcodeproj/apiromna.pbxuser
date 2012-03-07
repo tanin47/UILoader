@@ -1,5 +1,12 @@
 // !$*UTF8*$!
 {
+	1D3623250D0F684500981E51 /* uiloaderAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{582, 0}";
+			sepNavVisRange = "{251, 461}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* uiloader */ = {
 		activeExec = 0;
 		executables = (
@@ -11,7 +18,6 @@
 		activeExecutable = F2C897231507298700D8C784 /* uiloader */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* uiloader */;
 		addToTargets = (
-			1D6058900D05DD3D006BFB54 /* uiloader */,
 		);
 		codeSenseManager = F2C8972D1507298D00D8C784 /* Code sense */;
 		executables = (
@@ -63,6 +69,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
